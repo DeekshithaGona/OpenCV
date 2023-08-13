@@ -5,3 +5,5 @@ This repo consists of few exercises, projects, tasks related to Image Processing
 # GAMING using handgestures 
 With this setup, you can potentially play games that involve left and right movement, navigation, or simple controls.
 
+# Image Registration
+Image registration is the process of aligning two or more images of the same scene taken at different times, from different viewpoints, or with different sensors. It's vital in medical imaging, satellite imagery, and computer vision for tasks like change detection, object tracking, and fusing data for enhanced analysis and visualization.
